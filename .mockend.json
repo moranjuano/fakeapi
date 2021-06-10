@@ -8,6 +8,12 @@
   },
   "Comment": {
     "body": "string",
-    "post": "Post"
+    "post": "Post",
+    "author": "Author"
+  }
+  "Author":{
+    "name": "string",
+    "age": "int",
+    "registeredAt": "date",
   }
 }
