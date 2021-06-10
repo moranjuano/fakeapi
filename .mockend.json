@@ -10,7 +10,7 @@
     "body": "string",
     "post": "Post",
     "author": "Author"
-  }
+  },
   "Author":{
     "name": "string",
     "age": "int",
